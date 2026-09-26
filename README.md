@@ -9,5 +9,5 @@ skyvrversion = '3.0.0'
 VR_Model_Customization_GUI = game:GetObjects("rbxassetid://93922799482853")[1]
 VR_Model_Customization_GUI.Parent = game.CoreGui
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/presidentanvil/skyvr/main/VRCustomizationMain.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/396abc/skyvr/main/VRCustomizationMain.lua"))()
 ```
